@@ -14,7 +14,7 @@ This repository features an updated **Modular Structure** designed for newcomers
 1. **Prepare Google Drive:** Log into your Google Drive and create a folder named exactly `StemSeparation` in your main drive directory.
 2. **Upload Your Audio:** Drop your target master audio file (e.g., `song.wav` or `track.mp3`) directly into that `StemSeparation` folder.
 3. **Launch the Notebook:** Click the **Open In Colab** badge above or use [this direct link](https://colab.research.google.com/drive/1n79yj-f4m-Z7-_bKkZg19BjTqEg8eV_L) to open the updated environment.
-4. **Configure & Run:** Set your runtime to GPU (`Runtime` > `Change runtime type` > `T4 GPU`), update the `FILENAME` variable in Step 3 to match your file exactly, and execute the cells sequentially!
+4. **Configure & Run:** Set your runtime to GPU (`Runtime` > `Change runtime type` > `T4 GPU`), YOU MUST INPUT YOUR `FILENAME` in Step 3 to match your file exactly, this step will WAIT for your input :).
 
 ---
 
