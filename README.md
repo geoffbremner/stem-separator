@@ -24,7 +24,7 @@ This repository features an updated **Modular Structure** designed for newcomers
 | :--- | :--- | :--- |
 | **Step 1** | **Connect Google Drive** | Safely mounts your personal Drive space to read/write files[cite: 4, 5]. |
 | **Step 2** | **Install Dependencies** | Updates environment with `torch`, `torchaudio`, and `demucs`[cite: 4, 5]. |
-| **Step 3** | **File Verification** | **[Interactive Input]** Type your filename when prompted; the script verifies the file before processing[cite: 4, 5]. |
+| **Step 3** | **File Verification** | **[Interactive Input]** Select your filename from the dropdown -- the script verifies the file before processing[cite: 4, 5]. |
 | **Step 4** | **Execute Extraction** | Runs the high-fidelity `htdemucs_ft` separation with verbose logging (`-v`) and 24-bit output[cite: 4, 5]. |
 
 > ⚠️ **Important Safety Note:** This workflow operates strictly within your own isolated Google Colab instance[cite: 5]. Mounting your Google Drive only gives *your personal runtime* access to your files[cite: 5]. Your data is completely secure, private, and never shared with external repositories or third parties[cite: 5].
